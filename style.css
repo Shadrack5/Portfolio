@@ -1,0 +1,16 @@
+
+.column{
+    float: left;
+    width: 50%;
+    
+    
+}
+li{
+    display: inline;
+    padding: 10px;
+    
+}
+
+
+
+
