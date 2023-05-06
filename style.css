@@ -34,4 +34,14 @@ h1{
     background-color: aquamarine;
     height: 300px;
 }
-
+.column{
+    text-align: center;
+}
+.start{
+    float: left;
+    width: 50%;
+}
+#about{
+    float: left;
+    width: 50%;
+}
