@@ -64,4 +64,23 @@ h1{
 }
 #footer{
     padding: 30px;
+    text-align: center;
+    padding-top: 5%;
+
+}
+.contact{
+    text-align: center;
+    margin-top: 20px;
+    width: 100%;
+
+}
+input{
+    width: 100%;
+    padding: 19px;
+    border: 1px solid cornsilk;
+    border-radius: 4px;
+    box-sizing: border-box;
+    margin-top: 6px;
+    margin-bottom: 16px;
+    resize: vertical;
 }
