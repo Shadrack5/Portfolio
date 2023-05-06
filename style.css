@@ -44,12 +44,17 @@ h1{
 #about{
     float: left;
     width: 50%;
+    top: 60%;
     position: absolute;
-    top: 40%;
+    text-align: center;
+
 }
 #skills{
     float: right;
     width: 50%;
-    position: absolute;
     top: 60%;
+}
+#contact{
+    position: relative;
+    top: 40;
 }
