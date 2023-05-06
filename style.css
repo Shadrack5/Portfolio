@@ -44,4 +44,12 @@ h1{
 #about{
     float: left;
     width: 50%;
+    position: absolute;
+    top: 40%;
+}
+#skills{
+    float: left;
+    width: 50%;
+    position: absolute;
+    top: 60%;
 }
